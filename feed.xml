@@ -1,12 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>amrshah.github.io</title>
+    <title>Amr Shah // Developer, Writer, Builder</title>
     <link href="https://amrshah.github.io/me/feed.xml" rel="self" />
     <link href="https://amrshah.github.io/me" />
-    <updated>1970-01-01T05:00:00+05:00</updated>
+    <updated>2025-11-09T01:47:57+05:00</updated>
     <author>
         <name>Ali Raza a.k.a Amr Shah</name>
     </author>
     <id>https://amrshah.github.io/me</id>
 
+    <entry>
+        <title>hero</title>
+        <author>
+            <name>Ali Raza a.k.a Amr Shah</name>
+        </author>
+        <link href="https://amrshah.github.io/me/hero/"/>
+        <id>https://amrshah.github.io/me/hero/</id>
+        <media:content url="https://amrshah.github.io/me/media/posts/4/IMG_20200118_193134_2-removebg-preview.png" medium="image" />
+
+        <updated>2025-11-09T01:47:57+05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://amrshah.github.io/me/media/posts/4/IMG_20200118_193134_2-removebg-preview.png" alt="" />
+                    Hi, I’m Amr Shah Developer • Consultant • Writer I explore the intersection of automation, AI agents, and creativity — building systems that think and stories that feel. Currently leading web development initiatives and creating orchestration frameworks at AlamiaSoft.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://amrshah.github.io/me/media/posts/4/IMG_20200118_193134_2-removebg-preview.png" class="type:primaryImage" alt="" /></p>
+                <h1 id="hi-im-amr-shah">Hi, I’m Amr Shah</h1>
+<p>Developer • Consultant • Writer</p><p>I explore the intersection of <strong>automation, AI agents, and creativity</strong> — building systems that think and stories that feel.<br>Currently leading web development initiatives and creating orchestration frameworks at <a href="https://amrshah.github.io/alamiasoft/">AlamiaSoft</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Featured Projects</title>
+        <author>
+            <name>Ali Raza a.k.a Amr Shah</name>
+        </author>
+        <link href="https://amrshah.github.io/me/featured-projects/"/>
+        <id>https://amrshah.github.io/me/featured-projects/</id>
+
+        <updated>2025-11-09T01:41:40+05:00</updated>
+            <summary>
+                <![CDATA[
+                    Featured Projects Multi-Agent Orchestration Framework AI-driven automation platform for SDLC and digital marketing workflows. Custom productivity and workflow tools for creative developers. Software company focused on intelligent automation systems. Visit site →
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <section>
+<h2>Featured Projects</h2>
+<div class="projects-grid">
+<div class="card">
+<h3>Multi-Agent Orchestration Framework</h3>
+<p>AI-driven automation platform for SDLC and digital marketing workflows.</p>
+<a href="#">Learn more →</a></div>
+<div class="card">
+<h3>Automation Toolkit</h3>
+<p>Custom productivity and workflow tools for creative developers.</p>
+<a href="#">View on GitHub →</a></div>
+<div class="card">
+<h3>AlamiaSoft</h3>
+<p>Software company focused on intelligent automation systems.</p>
+<a href="https://amrshah.github.io/alamiasoft/">Visit site →</a></div>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
 </feed>

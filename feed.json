@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "amrshah.github.io",
+    "title": "Amr Shah // Developer, Writer, Builder",
     "description": "",
     "home_page_url": "https://amrshah.github.io/me",
     "feed_url": "https://amrshah.github.io/me/feed.json",
@@ -9,5 +9,34 @@
         "name": "Ali Raza a.k.a Amr Shah"
     },
     "items": [
+        {
+            "id": "https://amrshah.github.io/me/hero/",
+            "url": "https://amrshah.github.io/me/hero/",
+            "title": "hero",
+            "summary": "Hi, I’m Amr Shah Developer • Consultant • Writer I explore the intersection of automation, AI agents, and creativity — building systems that think and stories that feel. Currently leading web development initiatives and creating orchestration frameworks at AlamiaSoft.",
+            "content_html": "<h1 id=\"hi-im-amr-shah\">Hi, I’m Amr Shah</h1>\n<p>Developer • Consultant • Writer</p><p>I explore the intersection of <strong>automation, AI agents, and creativity</strong> — building systems that think and stories that feel.<br>Currently leading web development initiatives and creating orchestration frameworks at <a href=\"https://amrshah.github.io/alamiasoft/\">AlamiaSoft</a>.</p>",
+            "image": "https://amrshah.github.io/me/media/posts/4/IMG_20200118_193134_2-removebg-preview.png",
+            "author": {
+                "name": "Ali Raza a.k.a Amr Shah"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-09T01:47:57+05:00",
+            "date_modified": "2025-11-09T01:47:57+05:00"
+        },
+        {
+            "id": "https://amrshah.github.io/me/featured-projects/",
+            "url": "https://amrshah.github.io/me/featured-projects/",
+            "title": "Featured Projects",
+            "summary": "Featured Projects Multi-Agent Orchestration Framework AI-driven automation platform for SDLC and digital marketing workflows. Custom productivity and workflow tools for creative developers. Software company focused on intelligent automation systems. Visit site →",
+            "content_html": "<section>\n<h2>Featured Projects</h2>\n<div class=\"projects-grid\">\n<div class=\"card\">\n<h3>Multi-Agent Orchestration Framework</h3>\n<p>AI-driven automation platform for SDLC and digital marketing workflows.</p>\n<a href=\"#\">Learn more →</a></div>\n<div class=\"card\">\n<h3>Automation Toolkit</h3>\n<p>Custom productivity and workflow tools for creative developers.</p>\n<a href=\"#\">View on GitHub →</a></div>\n<div class=\"card\">\n<h3>AlamiaSoft</h3>\n<p>Software company focused on intelligent automation systems.</p>\n<a href=\"https://amrshah.github.io/alamiasoft/\">Visit site →</a></div>\n</div>\n</section>",
+            "author": {
+                "name": "Ali Raza a.k.a Amr Shah"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-09T01:41:40+05:00",
+            "date_modified": "2025-11-09T01:41:40+05:00"
+        }
     ]
 }
